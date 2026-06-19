@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Modal Evidence Review",
+  "description": "Verify damage claims using conversation, images, risk profiles, and evidence rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
