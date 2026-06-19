@@ -242,7 +242,3 @@ Risk Assessment
 
 output.csv
 ```
-
-So, in one sentence:
-
-**You need to build an end-to-end AI claim verification agent that reads conversations and images, determines whether the visual evidence supports the damage claim, and outputs structured results in a CSV.**
